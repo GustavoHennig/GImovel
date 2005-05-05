@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!--
+<!DOCTYPE Tabuleiro SYSTEM "DefinicaoTabuleiro.dtd" >
+-->
+<Tabuleiro>
+	<Casa id="0">
+    		<Nome>Início</Nome>
+		<Ramo>Neutro</Ramo>
+		<Descricao>Neutro</Descricao>
+		<Preco>999999999</Preco>
+		<Rendimento>1000</Rendimento>
+		<Cor
+			R="100"
+			G="100"
+			B="210"
+		/>
+	</Casa>
+	<Casa id="1">
+		<Nome>ABC</Nome>
+		<Ramo>Livraria</Ramo>
+		<Descricao>Livros de Todos os Gêneros</Descricao>
+		<Preco>35000</Preco>
+		<Rendimento>1500</Rendimento>
+		<Cor
+			R="90"
+			G="100"
+			B="120"
+		/>
+	</Casa>
+	<Casa id="2">
+		<Nome>Fumeta</Nome>
+		<Ramo>Tabacaria</Ramo>
+		<Descricao>Fumo, Revistas e algumas porcarias.</Descricao>
+		<Preco>35000</Preco>
+		<Rendimento>1500</Rendimento>
+		<Cor
+			R="100"
+			G="130"
+			B="170"
+		/>
+	</Casa>
+	<Casa id="3">
+		<Nome>CellHouse</Nome>
+		<Ramo>Loja de Celular</Ramo>
+		<Descricao>Livros de Todos os Gêneros</Descricao>
+		<Preco>35000</Preco>
+		<Rendimento>1500</Rendimento>
+		<Cor
+			R="200"
+			G="100"
+			B="50"
+		/>
+	</Casa>
+	<Casa id="4">
+		<Nome>SapatoBom</Nome>
+		<Ramo>Sapataria</Ramo>
+		<Descricao>Casa usada para reparar sapatos.</Descricao>
+		<Preco>2000</Preco>
+		<Rendimento>300</Rendimento>
+		<Cor
+			R="100"
+			G="100"
+			B="255"
+		/>
+	</Casa>
+	<Casa id="5">
+		<Nome>ComaTudo</Nome>
+		<Ramo>Retaurante a quilo</Ramo>
+		<Descricao>Tudo que é tipo de comida.</Descricao>
+		<Preco>40000</Preco>
+		<Rendimento>4000</Rendimento>
+		<Cor
+			R="200"
+			G="100"
+			B="150"
+		/>
+	</Casa>
+	<Casa id="6">
+		<Nome>InfoMicro</Nome>
+		<Ramo>Loja de Informática</Ramo>
+		<Descricao>Computadores novos e usados.</Descricao>
+		<Preco>50000</Preco>
+		<Rendimento>6000</Rendimento>
+		<Cor
+			R="123"
+			G="150"
+			B="200"
+		/>
+	</Casa>
+	<Casa id="7">
+		<Nome>ElaMais</Nome>
+		<Ramo>Loja de Roupas</Ramo>
+		<Descricao>Roupas em geral.</Descricao>
+		<Preco>20000</Preco>
+		<Rendimento>2000</Rendimento>
+		<Cor
+			R="200"
+			G="150"
+			B="200"
+		/>
+	</Casa>
+	<Casa id="8">
+		<Nome>Costrudo</Nome>
+		<Ramo>Loja de Materiais de Construção</Ramo>
+		<Descricao>Tudo de materiais de construçao.</Descricao>
+		<Preco>200000</Preco>
+		<Rendimento>10000</Rendimento>
+		<Cor
+			R="200"
+			G="150"
+			B="200"
+		/>
+	</Casa>
+	<Casa id="9">
+		<Nome>Matagal</Nome>
+		<Ramo>Terreno Baldio Afastado</Ramo>
+		<Descricao>Muito mato.</Descricao>
+		<Preco>5000</Preco>
+		<Rendimento>10</Rendimento>
+		<Cor
+			R="200"
+			G="200"
+			B="50"
+		/>
+	</Casa>
+	<Casa id="10">
+		<Nome>AutoCar</Nome>
+		<Ramo>Loja de Autopeças</Ramo>
+		<Descricao>Tudo de peças de carros.</Descricao>
+		<Preco>40000</Preco>
+		<Rendimento>4000</Rendimento>
+		<Cor
+			R="150"
+			G="200"
+			B="50"
+		/>
+	</Casa>
+	<Casa id="11">
+		<Nome>NightVip</Nome>
+		<Ramo>Casa Noturna</Ramo>
+		<Descricao>As Melhores garotas da região.</Descricao>
+		<Preco>50000</Preco>
+		<Rendimento>10000</Rendimento>
+		<Cor
+			R="150"
+			G="200"
+			B="50"
+		/>
+	</Casa>
+	<Casa id="12">
+		<Nome>DeusBom</Nome>
+		<Ramo>Igreja de Deus</Ramo>
+		<Descricao>Fazemos enterros, casamentos, batizados. Temos o melhor preço.</Descricao>
+		<Preco>50000</Preco>
+		<Rendimento>4500</Rendimento>
+		<Cor
+			R="120"
+			G="140"
+			B="250"
+		/>
+	</Casa>
+	<Casa id="13">
+		<Nome>SoftPlus</Nome>
+		<Ramo>Software House</Ramo>
+		<Descricao>Software completo: Automação Comercial, Financeiro, Contábil, Estoque...</Descricao>
+		<Preco>75000</Preco>
+		<Rendimento>8000</Rendimento>
+		<Cor
+			R="120"
+			G="200"
+			B="250"
+		/>
+	</Casa>
+	<Casa id="14">
+		<Nome>Mamma</Nome>
+		<Ramo>Pizzaria</Ramo>
+		<Descricao>A Mamma faz as melhores pizzas.</Descricao>
+		<Preco>45000</Preco>
+		<Rendimento>3000</Rendimento>
+		<Cor
+			R="120"
+			G="200"
+			B="250"
+		/>
+	</Casa>
+	<Casa id="15">
+		<Nome>Paper</Nome>
+		<Ramo>Papelaria</Ramo>
+		<Descricao>Aqui tem papel pode crer, e mais um monte de buginganga...</Descricao>
+		<Preco>45000</Preco>
+		<Rendimento>3000</Rendimento>
+		<Cor
+			R="120"
+			G="00"
+			B="250"
+		/>
+	</Casa>
+	<Casa id="16">
+		<Nome>LixoFast</Nome>
+		<Ramo>Carroça de Lixo</Ramo>
+		<Descricao>Recolho lixo, o seu lixo é o meu lucro.</Descricao>
+		<Preco>1000</Preco>
+		<Rendimento>300</Rendimento>
+		<Cor
+			R="220"
+			G="200"
+			B="50"
+		/>
+	</Casa>
+	<Casa id="17">
+		<Nome>Carango</Nome>
+		<Ramo>Revenda de carros usados</Ramo>
+		<Descricao>Carros de tudo que eh tipo.</Descricao>
+		<Preco>100000</Preco>
+		<Rendimento>7000</Rendimento>
+		<Cor
+			R="200"
+			G="230"
+			B="250"
+		/>
+	</Casa>
+	<Casa id="18">
+		<Nome>Magro's</Nome>
+		<Ramo>Bar e Lancheria</Ramo>
+		<Descricao>Cerveja, cachaça, samba, xis, torrada, cachorro e mesas limpas.</Descricao>
+		<Preco>5000</Preco>
+		<Rendimento>800</Rendimento>
+		<Cor
+			R="200"
+			G="30"
+			B="150"
+		/>
+	</Casa>
+	<Casa id="19">
+		<Nome>Felicidade</Nome>
+		<Ramo>Supermercado</Ramo>
+		<Descricao>Tudo</Descricao>
+		<Preco>500000</Preco>
+		<Rendimento>15000</Rendimento>
+		<Cor
+			R="20"
+			G="60"
+			B="200"
+		/>
+	</Casa>
+	<Casa id="20">
+		<Nome>Betão</Nome>
+		<Ramo>Oficina Mecânica</Ramo>
+		<Descricao>Arrumamos problemas mecânicos em toda linha de automóveis.</Descricao>
+		<Preco>25000</Preco>
+		<Rendimento>3500</Rendimento>
+		<Cor
+			R="20"
+			G="160"
+			B="240"
+		/>
+	</Casa>
+	<Casa id="21">
+		<Nome>Betinho</Nome>
+		<Ramo>AutoElétrica</Ramo>
+		<Descricao>Arrumamos problemas elétricos em toda linha de automóveis.</Descricao>
+		<Preco>30000</Preco>
+		<Rendimento>4500</Rendimento>
+		<Cor
+			R="200"
+			G="60"
+			B="00"
+		/>
+	</Casa>
+</Tabuleiro>

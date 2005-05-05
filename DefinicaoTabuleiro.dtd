@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Tabuleiro ( Casa+ ) >
+<!ELEMENT Casa ( Nome, Ramo, Descricao, Preco, Rendimento, Cor ) >
+<!ATTLIST Casa id NMTOKEN #REQUIRED >
+<!ELEMENT Nome ( #PCDATA ) >
+<!ELEMENT Descricao ( #PCDATA ) >
+<!ELEMENT Ramo ( #PCDATA ) >
+<!ELEMENT Preco ( #PCDATA ) >
+<!ELEMENT Cor ( R, G, B ) >
+<!ELEMENT G ( #PCDATA ) >
+<!ELEMENT R ( #PCDATA ) >
+<!ELEMENT B ( #PCDATA ) >
+<!ELEMENT Rendimento ( #PCDATA ) >
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE refactor PUBLIC "-//Borland Software Corporation//Refactor 1.0//EN" "http://www.borland.com/devsupport/jbuilder/dtds/refactor_1_0.dtd">
+<refactor>
+  <rename-method id="6AP01XT3TE9EA34WG331QKH0" creation-time="Tue May 31 21:12:32.687 GMT-03:00 2005">
+    <declaring-class-name>jogo.Info</declaring-class-name>
+    <declared-method-signature>()V</declared-method-signature>
+    <old-method-name>DESTROI</old-method-name>
+    <new-method-name>Esconde</new-method-name>
+  </rename-method>
+  <rename-package id="6AP087RFV9BEE2HJC331QKH0" creation-time="Sun Jul 17 19:38:22.140 GMT-03:00 2005">
+    <old-package-name>jogo</old-package-name>
+    <new-package-name>gimovel</new-package-name>
+  </rename-package>
+  <rename-package id="6AP002O73DKE39B06TLFK8Z" creation-time="Fri Mar 03 19:36:41.203 GMT-03:00 2006">
+    <old-package-name>jogo.dados</old-package-name>
+    <new-package-name>gimovel.dados</new-package-name>
+  </rename-package>
+</refactor>
