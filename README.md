@@ -10,4 +10,5 @@ Isso é o que acontece quando um programador resolve fazer um jogo sem a menor n
  O tabuleiro é renderizado no pixel com AWT Graphics :(
 
 Gustavo Augusto Hennig, 2005
+
 Hoje apoiado por: [Plagius - Detector de Plágio](http://www.plagius.com)
